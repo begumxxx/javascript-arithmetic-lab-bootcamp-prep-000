@@ -24,12 +24,12 @@ function dec(a){
 }
 
 function makeInt(n){
-  return 0
+  return n
   return NaN 
 }  
 
 function preserveDecimal(n){
-  return 2.222
+  return n
   return NaN
 }
 
