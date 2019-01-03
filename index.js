@@ -28,8 +28,7 @@ parseInt("n")
 }  
 
 function preserveDecimal(n){
-  return n
-  return NaN
+  parseFloat('n')
 }
 
 
